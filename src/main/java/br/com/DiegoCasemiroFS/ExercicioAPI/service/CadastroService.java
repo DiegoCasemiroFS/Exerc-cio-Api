@@ -9,9 +9,10 @@ import br.com.DiegoCasemiroFS.ExercicioAPI.domain.dto.CadastroDto;
 import br.com.DiegoCasemiroFS.ExercicioAPI.exception.CadastroNotFoundException;
 import br.com.DiegoCasemiroFS.ExercicioAPI.repository.CadastroRepository;
 import jakarta.transaction.Transactional;
-import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import java.util.Optional;
 
 @Service
 public class CadastroService {
