@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.DiegoCasemiroFS</groupId>
-	<artifactId>Exercicio-API</artifactId>
+	<artifactId>cadastro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Exercicio-API</name>
+	<name>cadastro</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
